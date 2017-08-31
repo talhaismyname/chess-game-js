@@ -1,2 +1,2 @@
 # chess-game-js
-This is a chess game made using  purely JavaScript
+This is a chess game made using  purely JavaScript.
